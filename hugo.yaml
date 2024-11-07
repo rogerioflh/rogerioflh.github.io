@@ -1,0 +1,72 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: Rogério Filho
+theme: ["PaperMod"]
+
+taxonomies:
+  tag: "tags"
+
+params:
+  homeInfoParams:
+    Title: Hello world 🖖🏻, I'm Rogério!
+    Content: Welcome to my digital space where I document my learnings as a programmer.
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "/robo.png"
+    favicon16x16: "/robo.png"
+    favicon32x32: "/robo.png"
+    apple_touch_icon: "/robo.png"
+    safari_pinned_tab: "/robo.png"
+
+  socialIcons:
+  - name: github
+    url: 'https://github.com/rogerioflh'
+  - name: twitter
+    url: 'https://x.com/__Sisifo'
+  - name: instagram
+    url: 'https://www.instagram.com/rogerio.py/'
+  - name: linkedin
+    url: 'www.linkedin.com/in/rogerio-flh'
+  - name: medium
+    url: 'https://medium.com/@rogeriofilho63'
+  - name: spotify
+    url: 'https://open.spotify.com/user/212j2wkf64oceck6n6tjmnuxi?si=b47cf0346347459e'
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+menu:
+  main:
+    - identifier: about
+      name: about
+      url: /about/
+      weight: 10
+    - identifier: archive
+      name: archive
+      url: /archive/
+      weight: 20
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 30
+    - identifier: search
+      name: search
+      url: /search/
+      weight: 40
+
+# For search: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#search-page
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary

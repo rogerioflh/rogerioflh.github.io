@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Rogério Filho</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Rogério Filho</description>
+    <generator>Hugo -- 0.138.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Nov 2024 13:31:00 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🧑🏻‍💻 About me</title>
+      <link>http://localhost:1313/posts/000-fist-post/</link>
+      <pubDate>Thu, 07 Nov 2024 13:31:00 -0300</pubDate>
+      <guid>http://localhost:1313/posts/000-fist-post/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;My name is Rogério, enrolled in mathematics at the Federal University of Alagoas (UFAL). Currently studying and developing an API in Flask for uploading files to Obsidian, I&amp;rsquo;m looking for a job opportunity as a developer.&lt;/p&gt;
+&lt;h2 id=&#34;studies&#34;&gt;Studies&lt;/h2&gt;
+&lt;p&gt;In my personal studies, I am interested in backend development and AI. I have a little familiarity with relational and non-relational databases and a personal passion for hardware, using it in conjunction with AI and Deep Learning to develop biomechanical prostheses.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
