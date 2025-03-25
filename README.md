@@ -2,11 +2,9 @@
 
 <p align="center">
  <a href="https://twitter.com/__Sisifo"> Twitter </a> • 
- <a href="https://www.instagram.com/rogerio.py/"> Instagram </a> • 
-  <a href="linkedin.com/in/rogério-filho"> LinkedIn </a> •
+ <a href="https://www.instagram.com/rogerio.flh/"> Instagram </a> • 
+  <a href="https://www.linkedin.com/in/rogerio-flh/"> LinkedIn </a> •
  <a href="https://github.com/rogerioflh"> GitHub </a> •
- <a href="https://medium.com/@rogeriofilho63)"> Medium </a>
-</p>
 
 <p align="center">
     <b>I'm a backend developer and student of mathematic.</b>
