@@ -29,8 +29,6 @@ params:
     url: 'https://www.instagram.com/rogerio.flh/'
   - name: linkedin
     url: 'www.linkedin.com/in/rogerio-flh'
-  - name: medium
-    url: 'https://medium.com/@rogeriofilho63'
   - name: spotify
     url: 'https://open.spotify.com/user/212j2wkf64oceck6n6tjmnuxi?si=b47cf0346347459e'
 
